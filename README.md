@@ -52,7 +52,7 @@ Feel free to explore my portfolio to learn more about me!
 - **Phone number:** 0764647099
 - **Email:** ngoc030103@gmail.com
 - **LinkedIn:** [Nguyen Pham Bich Ngoc](www.linkedin.com/in/nguyen-pham-bich-ngoc-030103jangemm)
-- **Portfolio Website:** [Ngoc Nguyen]([https://lucyneee.github.io/ex_porfolio/])
+- **Portfolio Website:** [Ngoc Nguyen]([(https://lucyneee.github.io/portfolio/)])
 
 ---
 
