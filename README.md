@@ -2,6 +2,9 @@
 
 Welcome to my portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in Data Science, and other technical fields.
 
+## ![image](https://github.com/user-attachments/assets/dc87d36f-5efe-433c-941b-7eb554ceb37e)
+About me
+
 ## 🗃️ Projects
 
 ###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
