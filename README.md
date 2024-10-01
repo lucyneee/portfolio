@@ -4,8 +4,11 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 ## ![image](https://github.com/user-attachments/assets/dc87d36f-5efe-433c-941b-7eb554ceb37e) About me
 Hello! I'm Ngọc, a final-year student pursuing a Bachelor of Science in Data Science of Business from the Ho Chi Minh University of Banking. My passion lies in harnessing the power of data to drive insights and inform decision-making.
+
 I have experience with programming languages such as Python and R, and I am skilled in data analysis tools like Pandas and NumPy.
+
 I am eager to apply my skills in a professional setting and contribute to meaningful data-driven projects. In my spare time, I enjoy watching movies alone, which helps me maintain a balanced lifestyle.
+
 Feel free to explore my portfolio to learn more about me!
 
 ## 🗃️ Projects
