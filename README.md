@@ -13,6 +13,11 @@ Feel free to explore my portfolio to learn more about me!
 
 ## 🗃️ Projects
 
+### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
+**Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
+
+**Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
+
 ###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
 **Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
 
@@ -23,10 +28,7 @@ Feel free to explore my portfolio to learn more about me!
 
 **Technologies:** Python - Pandas, nlp_utils, seaborn, sklearn (train_test_split, CountVectorizer, TfidfVectorizer)
 
-### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
-**Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
 
-**Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
 
 
 ## 🧑🏻‍💻 Skills
