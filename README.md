@@ -35,7 +35,7 @@ Feel free to explore my portfolio to learn more about me!
 
 ## 🗃️ Projects
 
-### [Zomato Restaurant Analysis](https://github.com/lucyneee/Zomato-Restaurant-Analysis/blob/main/README.md)
+### [Zomato Restaurant Analysis](https://github.com/lucyneee/Zomato-Restaurant-Analysis)
 **Description:** Zomato is a company that provides a platform for restaurant search and discovery through its app and website, offering detailed information about various dining options. In this project, we are examining the Zomato Restaurant [dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) to gain deeper insights into the restaurant industry in Bangalore. The analysis involves loading and cleaning the data, visualizing relationships between features, and building predictive models.
 
 **Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, dexplot, sklearn
