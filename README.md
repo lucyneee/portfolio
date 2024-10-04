@@ -13,6 +13,10 @@ Feel free to explore my portfolio to learn more about me!
 
 ## 🗃️ Projects
 
+### [Zomato Restaurant Analysis](https://github.com/lucyneee/Zomato-Restaurant-Analysis/blob/main/README.md)
+**Description:** Zomato is a company that provides a platform for restaurant search and discovery through its app and website, offering detailed information about various dining options. In this project, we are examining the Zomato Restaurant [dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) to gain deeper insights into the restaurant industry in Bangalore. The analysis involves loading and cleaning the data, visualizing relationships between features, and building predictive models.
+**Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, dexplot, sklearn
+
 ### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
 **Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
 
