@@ -11,30 +11,6 @@ I am eager to apply my skills in a professional setting and contribute to meanin
 
 Feel free to explore my portfolio to learn more about me!
 
-## 🗃️ Projects
-
-### [Zomato Restaurant Analysis](https://github.com/lucyneee/Zomato-Restaurant-Analysis/blob/main/README.md)
-**Description:** Zomato is a company that provides a platform for restaurant search and discovery through its app and website, offering detailed information about various dining options. In this project, we are examining the Zomato Restaurant [dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) to gain deeper insights into the restaurant industry in Bangalore. The analysis involves loading and cleaning the data, visualizing relationships between features, and building predictive models.
-**Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, dexplot, sklearn
-
-### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
-**Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
-
-**Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
-
-###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
-**Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
-
-**Technologies:** Python - Pandas, OpenCV, NumPy, scikit-image, Matplotlib
-
-### [Fake News Classifier](https://github.com/lucyneee/Fake-News-Classifier/blob/main/Fake_News_Classifier.ipynb)
-**Description:** This project aims to build a Fake News Classifier using machine learning techniques -  Natural Language Processing (NLP). Given a dataset with news articles, the model is trained to predict whether a piece of news is real or fake based on the provided text.
-
-**Technologies:** Python - Pandas, nlp_utils, seaborn, sklearn (train_test_split, CountVectorizer, TfidfVectorizer)
-
-
-
-
 ## 🧑🏻‍💻 Skills
 
 - **Programming Languages:** Python, R, C++, C#, SQL.
@@ -56,6 +32,27 @@ Feel free to explore my portfolio to learn more about me!
 ## 📜Certificate
 - [TOEIC](https://github.com/lucyneee/ex_porfolio/blob/main/assets/img/Toeic.jpg): 920
 - [MOS](https://github.com/lucyneee/ex_porfolio/tree/main/assets/img/mos): Microsoft Word, Microsoft PowerPoint, Microsoft Excel
+
+## 🗃️ Projects
+
+### [Zomato Restaurant Analysis](https://github.com/lucyneee/Zomato-Restaurant-Analysis/blob/main/README.md)
+**Description:** Zomato is a company that provides a platform for restaurant search and discovery through its app and website, offering detailed information about various dining options. In this project, we are examining the Zomato Restaurant [dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) to gain deeper insights into the restaurant industry in Bangalore. The analysis involves loading and cleaning the data, visualizing relationships between features, and building predictive models.
+**Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, dexplot, sklearn
+
+### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
+**Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
+
+**Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
+
+###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
+**Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
+
+**Technologies:** Python - Pandas, OpenCV, NumPy, scikit-image, Matplotlib
+
+### [Fake News Classifier](https://github.com/lucyneee/Fake-News-Classifier/blob/main/Fake_News_Classifier.ipynb)
+**Description:** This project aims to build a Fake News Classifier using machine learning techniques -  Natural Language Processing (NLP). Given a dataset with news articles, the model is trained to predict whether a piece of news is real or fake based on the provided text.
+
+**Technologies:** Python - Pandas, nlp_utils, seaborn, sklearn (train_test_split, CountVectorizer, TfidfVectorizer)
 
 
 ## 🌐 Contact
