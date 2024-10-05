@@ -23,7 +23,7 @@ Feel free to explore my portfolio to learn more about me!
 
 - **Degree:** Bachelor of Data Science of Business (*Department of Economic Mathematics*) 
   - Ho Chi Minh University of Banking
-  - Final-year student (*Expected Graduation: April 2024*)
+  - Final-year student (*Expected Graduation: April 2025*)
   - Scholarship: Encouragement Scholarship for Semester 1 (GPA: 3.4) and Semester 2 (GPA: 3.5), Year 3
 
 - **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP
