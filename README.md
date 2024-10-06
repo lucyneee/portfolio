@@ -44,6 +44,9 @@ Feel free to explore my portfolio to learn more about me!
 **Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, dexplot, sklearn
 
 ### [Create A ChatBot](https://github.com/lucyneee/Create-A-ChatBot/tree/main)
+
+![ChatBot](assets/img/z5901299678159_7403e0cafaeb6385c85b90f1c40d8276.jpg)
+
 **Description:** Developed an AI-powered chatbot capable of understanding and responding to user queries in natural language. This project involves creating a chatbot trained on a [set](https://gist.github.com/fahreziadh/a1ba19c2016fd18b33cf7bca7df42800) of predefined questions and answers. The chatbot is designed to process user inputs by comparing them with the questions it has been trained on. After identifying the closest matching question, it provides a response that corresponds to the associated answer from its training set.
 
 **Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
