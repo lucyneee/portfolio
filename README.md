@@ -51,6 +51,14 @@ Feel free to explore my portfolio to learn more about me!
 
 **Technologies:** Python - Pandas, Matplotlib, WordCloud, nlp_utils, NLKT, sklearn (TfidfVectorizer, cosine_distances)
 
+### [Walmart Sale Forecasting](https://github.com/lucyneee/Walmart-Sale-Forecasting)
+
+![Walmart](assets/img/18FA5A52-0F6F-D24B-EC345D734677D39A_W1600_H724.jpg)
+
+**Description:** This project focuses on building a model to forecast the weekly sales for Walmart stores across the United States. The project includes data preprocessing, feature engineering, model training, and evaluation to deliver accurate predictions.
+
+**Technologies:** Python - Pandas, NumPy, seaborn, Matplotlib, plotly, sklearn, Ridge, Decision Tree, Random Forest Regression
+
 ###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
 **Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
 
