@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in Data Science, and other technical fields.
 
 ## ![image](https://github.com/user-attachments/assets/dc87d36f-5efe-433c-941b-7eb554ceb37e) About me
-Hello! I'm Nguyễn Phạm Bích Ngọc, a final-year student pursuing a Bachelor of Science in Data Science of Business from the Ho Chi Minh University of Banking. My passion lies in harnessing the power of data to drive insights and inform decision-making.
+Hello! I'm Nguyễn Phạm Bích Ngọc, a final-year student pursuing a Bachelor of Science in Data Science for Business from the Ho Chi Minh University of Banking. My passion lies in harnessing the power of data to drive insights and inform decision-making.
 
 I have experience with programming languages such as Python and R, and I am skilled in data analysis tools like Pandas and NumPy.
 
